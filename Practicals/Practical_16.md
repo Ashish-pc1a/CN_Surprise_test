@@ -115,7 +115,8 @@ Go to **Desktop > IP Configuration** on each PC:
 | PC2 | 172.16.2.10  | 255.255.255.0   | 172.16.2.1        |
 | PC3 | 172.16.2.11  | 255.255.255.0   | 172.16.2.1        |
 
-![Figure](../../img/cisco-tutorials/tutorial-16/fig3.png)
+<img width="424" height="346" alt="image" src="https://github.com/user-attachments/assets/2de9d069-1aa7-4abd-a15d-4e2de2de673d" />
+
 
 ```{admonition} Important
 :class: important
