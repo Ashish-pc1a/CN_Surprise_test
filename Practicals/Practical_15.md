@@ -142,7 +142,7 @@ Go to **Desktop > IP Configuration** on each PC:
 | PC4 | 192.168.20.140 | 255.255.255.192  | 192.168.20.129    |
 | PC5 | 192.168.20.141 | 255.255.255.192  | 192.168.20.129    |
 
-<img width="932" height="563" alt="image" src="https://github.com/user-attachments/assets/1451ecaf-4418-4fbd-a6c1-5a3720e45654" />
+<img width="1040" height="617" alt="image" src="https://github.com/user-attachments/assets/b7dcd734-c702-46fb-be7f-aed69118cc93" />
 
 
 ```{admonition} Important
