@@ -258,7 +258,13 @@ write memory
 exit
 ```
 
-![Figure](../../img/cisco-tutorials/tutorial-15/fig4.png)
+<img width="868" height="840" alt="image" src="https://github.com/user-attachments/assets/fd7f0c21-8424-4761-8f0c-fa3e48d83b73" />
+
+<img width="827" height="816" alt="image" src="https://github.com/user-attachments/assets/487bacea-280c-4f99-a025-3acc64f0afd4" />
+
+<img width="925" height="704" alt="image" src="https://github.com/user-attachments/assets/479be247-5ebc-45ff-aee5-b556d3c0bd4c" />
+
+
 
 ---
 
