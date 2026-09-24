@@ -105,7 +105,8 @@ Follow these steps for **R0**, **R1**, and **R2**:
 | R0   | R1 | se0/0 ↔ se1/0   |
 | R1   | R2 | se0/0 ↔ se1/0   |
 
-![Figure](../../img/cisco-tutorials/tutorial-15/fig2.png)
+<img width="949" height="591" alt="image" src="https://github.com/user-attachments/assets/afd34b3c-eef4-4897-892e-c14251f23d1c" />
+
 
 ---
 
