@@ -142,7 +142,8 @@ Go to **Desktop > IP Configuration** on each PC:
 | PC4 | 192.168.20.140 | 255.255.255.192  | 192.168.20.129    |
 | PC5 | 192.168.20.141 | 255.255.255.192  | 192.168.20.129    |
 
-![Figure](../../img/cisco-tutorials/tutorial-15/fig3.png)
+<img width="932" height="563" alt="image" src="https://github.com/user-attachments/assets/1451ecaf-4418-4fbd-a6c1-5a3720e45654" />
+
 
 ```{admonition} Important
 :class: important
