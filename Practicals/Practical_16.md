@@ -39,7 +39,7 @@ This network includes:
 
 The goal is for PCs in AS 100 to reach PCs in AS 200 (and vice-versa) purely through BGP-advertised routes.
 
-![Figure](../../img/cisco-tutorials/tutorial-16/fig1.png)
+<img width="625" height="326" alt="image" src="https://github.com/user-attachments/assets/2f6d0a4b-29be-451a-b80e-e569700c275e" />
 
 ---
 
@@ -92,7 +92,7 @@ Follow these steps for **R0** and **R1**:
 |------|----|-----------------|
 | R0   | R1 | se0/0 ↔ se1/0   |
 
-![Figure](../../img/cisco-tutorials/tutorial-16/fig2.png)
+<img width="579" height="343" alt="image" src="https://github.com/user-attachments/assets/23b4c3eb-771b-47a8-bacd-4882e84ba351" />
 
 ---
 
